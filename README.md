@@ -1,4 +1,6 @@
-Business Sales Performance Analytics
+# Business Sales Performance Analysis
+
+![Business Sales Dashboard](Business_Sales_Dashboard.png)
 
 Project Overview
 
